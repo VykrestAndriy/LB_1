@@ -1,0 +1,4 @@
+D:\Labwork\PPPV\LB_1\CarWashManager\CarWashManager.DataAccess\obj\Debug\net6.0\CarWashManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labwork\PPPV\LB_1\CarWashManager\CarWashManager.DataAccess\obj\Debug\net6.0\CarWashManager.DataAccess.AssemblyInfoInputs.cache
+D:\Labwork\PPPV\LB_1\CarWashManager\CarWashManager.DataAccess\obj\Debug\net6.0\CarWashManager.DataAccess.AssemblyInfo.cs
+D:\Labwork\PPPV\LB_1\CarWashManager\CarWashManager.DataAccess\obj\Debug\net6.0\CarWashManager.DataAccess.csproj.CoreCompileInputs.cache
